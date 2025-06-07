@@ -1,2 +1,2 @@
-# MD_Website
-Modern WordPress website with AI assistant for myotonic dystrophy research - By Richard Weston.
+# Myotonic Dystrophy Research
+Modern WordPress website with an AI assistant for myotonic dystrophy research, redesigned for a client.
